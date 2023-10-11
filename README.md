@@ -1,4 +1,4 @@
-Chrome 开发者工具中文手册
+https://img.shields.io/github/license/Mzying2001/CefFlashBrowserChrome 开发者工具中文手册
 ===============
 
 Chrome DevTools 是公认的优秀的前端调试工具，由于功能强大，所以使用起来有一定的学习门槛，与此同时 Chrome DevTools 暂时没有中文手册，对于不太熟悉英文的同学会比较吃力。
